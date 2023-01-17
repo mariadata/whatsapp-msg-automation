@@ -1,8 +1,8 @@
 import pywhatkit
 import time
 
-contacts = ["+22248565301"]
-names = ["Aychouch"]
+contacts = ["+22244444444","+22244444444"]
+names = ["Aychouch", "Khalto"]
 
 if time.strftime('%A'):  #if day is Sunday
     i = 0
